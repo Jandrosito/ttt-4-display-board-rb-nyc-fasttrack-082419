@@ -3,9 +3,9 @@
 
 def display_board()
   put " x  |  x "
-  put "-------"
+  put "---------"
   put " x  |  x "
-  put "-------"
+  put "---------"
   put " x  |  x "
 end
   
