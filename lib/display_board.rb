@@ -3,6 +3,6 @@
 
 def board()
   put "   |   "
-  put "-------"
-  put "   |   "
+  
+  put "   |  put "-------" "
   
