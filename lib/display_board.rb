@@ -1,6 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
+board = [" '"]
 def display_board(board)
   put " x  |  x "
   put "---------"
@@ -9,4 +10,4 @@ def display_board(board)
   put " x  |  x "
 end
 
-display_board()
+display_board(board)
